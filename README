@@ -1,0 +1,8 @@
+you will use unsupervised learning (K-Means Clustering) to group customers based on:
+Annual Income
+Spending Score
+This helps businesses understand different types of customers like:
+High income, low spending
+Low income, high spending
+Loyal customers
+etc.
